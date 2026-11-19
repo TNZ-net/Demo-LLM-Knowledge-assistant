@@ -1,0 +1,4 @@
+# Only sites that permit scraping
+https://quotes.toscrape.com/
+https://quotes.toscrape.com/page/2/
+https://quotes.toscrape.com/page/3/

@@ -1,0 +1,16 @@
+[
+  {"question": "Who said the world is a process of our thinking?", "expect_keyword": "Einstein"},
+  {"question": "Which quote is about our choices and who we truly are?", "expect_keyword": "choices"},
+  {"question": "What did Edison say about failure?", "expect_keyword": "Edison"},
+  {"question": "Which quote says being ridiculous is better than being boring?", "expect_keyword": "boring"},
+  {"question": "What teaches language models different writing styles?", "expect_keyword": "datasets"},
+  {"question": "best recipe for pancakes", "expect_keyword": null},
+  {"question": "who won the football world cup", "expect_keyword": null}  ,
+  {"question": "What did Marilyn Monroe say about being ridiculous?", "expect_keyword": "Monroe"},
+  {"question": "Which quote is about thinking and changing the world?", "expect_keyword": "thinking"},
+  {"question": "What helps people organize information and complete tasks?", "expect_keyword": "organize"},
+  {"question": "Why must a good model understand context?", "expect_keyword": "context"},
+  {"question": "What does consistent effort produce over time?", "expect_keyword": "consistent"},
+  {"question": "how do I change a car tyre", "expect_keyword": null},
+  {"question": "what is the capital of Japan", "expect_keyword": null}
+]
